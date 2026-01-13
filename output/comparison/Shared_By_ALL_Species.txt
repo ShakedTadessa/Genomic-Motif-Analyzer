@@ -1,0 +1,26 @@
+GENOMIC CORE ANALYSIS: MOTIFS SHARED BY ALL SPECIES
+=======================================================
+
+[ AT LENGTH L = 30 ]
+Number of motifs shared by ALL 3 species: 759
+
+Pairwise Shared Counts:
+  - chimpanzee vs dog: 1071 motifs
+  - chimpanzee vs human: 333742 motifs
+  - dog vs human: 1664 motifs
+
+[ AT LENGTH L = 70 ]
+Number of motifs shared by ALL 3 species: 62
+
+Pairwise Shared Counts:
+  - chimpanzee vs dog: 62 motifs
+  - chimpanzee vs human: 265054 motifs
+  - dog vs human: 151 motifs
+
+[ AT LENGTH L = 120 ]
+Number of motifs shared by ALL 3 species: 0
+
+Pairwise Shared Counts:
+  - chimpanzee vs dog: 0 motifs
+  - chimpanzee vs human: 202243 motifs
+  - dog vs human: 25 motifs
